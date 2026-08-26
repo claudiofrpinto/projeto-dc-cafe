@@ -44,7 +44,7 @@ nav a:hover {
   justify-content: space-between;
   align-items: start;
   text-align: center;
-  background-image: url("/imagens/cafe2.jpg");
+  background-image: url("cafe2.jpg");
   background-size: cover;
   background-position: center;
   padding-bottom: 15px;
